@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ダンダラボッチ(3R2 Remix)",
+  "base_artist": "花譜",
+  "createdAt": "2025-12-19T05:22:17.915529Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダンダラボッチ - 3R2 Remix",
+      "artist": "花譜, 3R2",
+      "has_synced": false,
+      "path": "select/pl_01_ダンダラボッチ_-_3R2_Remix_花譜,_3R2.txt"
+    }
+  ]
+}
